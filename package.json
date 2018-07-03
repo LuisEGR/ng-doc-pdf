@@ -1,0 +1,24 @@
+{
+  "name": "ng-doc-pdf",
+  "version": "1.0.0",
+  "description": "PDF Generator for ngDoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisEGR/ng-doc-pdf.git"
+  },
+  "keywords": [
+    "pdf",
+    "ngdoc",
+    "angularjs"
+  ],
+  "author": "Luis E. Gonzalez R.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisEGR/ng-doc-pdf/issues"
+  },
+  "homepage": "https://github.com/LuisEGR/ng-doc-pdf#readme"
+}
